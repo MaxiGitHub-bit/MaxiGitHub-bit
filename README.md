@@ -1,4 +1,3 @@
-```markdown
 ## Victor Okeke
 
 MSc Cybersecurity 2023
@@ -32,5 +31,3 @@ search used to solve for the minimum savings rate that meets a fixed deadline.
 
 - **Tableau Public** · [(https://public.tableau.com/app/profile/victorokeke/vizzes)]
 - **LinkedIn** · [(https://www.linkedin.com/in/victor-okeke-g/)]
-
-```
