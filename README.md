@@ -4,7 +4,7 @@ Data and infrastructure. I build systems end to end, from ingestion and warehous
 
 Background runs from applied electrical engineering into network engineering, then cybersecurity and now data. Currently finishing an MSc in Data Analytics and moving into dissertation. 
 
-**MSc Data Analytics** (in progress) · **MSc Cybersecurity** · **Advanced Diploma in Network Engineering · **Applied Electrical Engineering**
+**MSc Data Analytics** (in progress) · **MSc Cybersecurity** · **Advanced Diploma in Network Engineering** · **Applied Electrical Engineering**
 
 Open to data engineering, analytics, and security engineering or analyst roles.
 
