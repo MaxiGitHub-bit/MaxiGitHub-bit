@@ -14,10 +14,10 @@ Currently finishing coursework and moving into dissertation. Open to security en
 
 ### What I work with
 
-**Data engineering** · SQL Server · SSIS · dimensional modelling (Kimball) · ETL pipeline design
-**Analytics and BI** · Tableau · SSRS · Python · Pandas
-**Machine Learning** · scikit-learn · CNNs and transfer learning · PCA and LDA
-**other** · Neo4j and Cypher · Git
+- **Data engineering** · SQL Server · SSIS · dimensional modelling (Kimball) · ETL pipeline design
+- **Analytics and BI** · Tableau · SSRS · Python · Pandas
+- **Machine Learning** · scikit-learn · CNNs and transfer learning · PCA and LDA
+- **other** · Neo4j and Cypher · Git
 
 ---
 
