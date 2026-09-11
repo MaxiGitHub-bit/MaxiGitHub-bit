@@ -30,4 +30,4 @@ search used to solve for the minimum savings rate that meets a fixed deadline.
 ### Elsewhere
 
 - **Tableau Public** · https://public.tableau.com/app/profile/victorokeke/vizzes
-- **LinkedIn** · [(https://www.linkedin.com/in/victor-okeke-g/)]
+- **LinkedIn** · https://www.linkedin.com/in/victor-okeke-g/
