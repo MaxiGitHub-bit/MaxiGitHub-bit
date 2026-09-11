@@ -11,7 +11,8 @@ Currently finishing coursework and moving into dissertation. Open to security en
 ### What I work with
 
 **Data engineering** · SQL Server · SSIS · dimensional modelling (Kimball) · ETL pipeline design
-**Analytics and BI** · scikit-learn · CNNs and transfer learning · PCA and LDA
+**Analytics and BI** · Tableau · SSRS · Python · Pandas
+**Machine Learning** · scikit-learn · CNNs and transfer learning · PCA and LDA
 **other** · Neo4j and Cypher · Git
 
 ---
@@ -19,7 +20,7 @@ Currently finishing coursework and moving into dissertation. Open to security en
 ### Select work
 
 **[Energy Intelligence Data Warehouse](https://github.com/MaxiGitHub-bit/energy-intelligence-data-warehouse)**
-A government dimensional warehouse over 159,739 rows of IEA monthly electricity statistics spanning 194 months and 48 countries. Star schema, SSIS ETL across a three-layer database architechture, four SSRS reports and a four-visual Tableau dashboard. Includes a SQL Server versus Neo4J retrieval benchmark across seven matched query pairs.
+A governed dimensional warehouse over 159,739 rows of IEA monthly electricity statistics spanning 194 months and 48 countries. Star schema, SSIS ETL across a three-layer database architechture, four SSRS reports and a four-visual Tableau dashboard. Includes a SQL Server versus Neo4J retrieval benchmark across seven matched query pairs.
 
 **[Mortgage Savings Simulator](https://github.com/MaxiGitHub-bit/mortgage-savings-simulator)**
 Deterministic savings-accumulation model in Python. Three scenarios, with bisection
